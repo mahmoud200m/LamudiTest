@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost/LamudiTest/index.php/api/properties/5","requestMethod":"DELETE","requestBody":"","headers":["X_LAMUDI_EMAIL","admin@admin.com","X_LAMUDI_PASSWORD","password1"]}

@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost/LamudiTest/index.php/api/properties","requestMethod":"POST","requestBody":"title=new flat&price=2000","headers":["Content-type","application/x-www-form-urlencoded","X_LAMUDI_EMAIL","admin@admin.com","X_LAMUDI_PASSWORD","password1"]}
