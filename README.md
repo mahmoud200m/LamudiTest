@@ -10,3 +10,6 @@
 <br />//the main url/index.php/site/login
 <br />email: admin@admin.com
 <br />password: password1
+
+5. you can access live version throught this url:
+<br />http://labs.elhegraa.com/LamudiTest
